@@ -1,1 +1,2 @@
-This is the stry of the Alien VERSION 2
+This is the stry of the Alien. 
+VERSION 2 FOR PUSH TESTING.
