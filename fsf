@@ -1,0 +1,30 @@
+[33mcommit 6235ef4e65992cccfb3b76595d555923f09489d8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 0c600de e461ac6
+Author: Jam Dzna <nuelyndecena@gmail.com>
+Date:   Sat Apr 6 20:35:56 2024 +0800
+
+    Merge branch 'alien-plot'
+
+[33mcommit 0c600dee0005f80bd73dd67b3aa64cbecbd6e27c[m
+Author: Jam Dzna <nuelyndecena@gmail.com>
+Date:   Sat Apr 6 19:29:47 2024 +0800
+
+    chapter 4
+
+[33mcommit e461ac664cd2c09e25d821e14f440f7b2a41d3cf[m[33m ([m[1;32malien-plot[m[33m)[m
+Author: Jam Dzna <nuelyndecena@gmail.com>
+Date:   Sat Apr 6 19:26:48 2024 +0800
+
+    Branch test version 1
+
+[33mcommit 15b22e369e7036dec89dc8d40895f53313c5c792[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Jam Dzna <nuelyndecena@gmail.com>
+Date:   Thu Apr 4 09:39:26 2024 +0800
+
+    Complete chapter 2 and 3
+
+[33mcommit 9bc70c33cc6828f48324174dc9645d78afc03acf[m
+Author: Jam Dzna <nuelyndecena@gmail.com>
+Date:   Mon Apr 1 10:46:31 2024 +0800
+
+    Complete chapter 1
